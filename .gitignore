@@ -1,0 +1,52 @@
+# =========================
+# Entorno virtual
+# =========================
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# =========================
+# Archivos de Django
+# =========================
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+media/
+
+# =========================
+# Archivos de configuración
+# =========================
+.env
+*.env
+
+# =========================
+# Sistema operativo
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+.history/
+
+# =========================
+# Node / npm (si luego usas front-end)
+# =========================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# =========================
+# Archivos compilados / temporales
+# =========================
+*.swp
+*.swo
+*.bak
+*.tmp
+*.old
