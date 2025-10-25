@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # Apps propias (modulares)
     'apps.core',  # app principal CMS
+    'apps.blog',
     # más adelante agregar: 'apps.blog', 'apps.shop', etc.
 ]
 
